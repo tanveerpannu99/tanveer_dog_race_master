@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tanveer_dog_race_master", "ajaypal_dog_race_master\tanveer_dog_race_master.csproj", "{38E5CD72-1FA8-4E7E-94DD-00C05DBE4CB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tanveer_dog_race_masterTests", "ajaypal_dog_race_masterTests\tanveer_dog_race_masterTests.csproj", "{095C3F21-4B2D-4D02-ABAA-0AAF111BA43E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38E5CD72-1FA8-4E7E-94DD-00C05DBE4CB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E5CD72-1FA8-4E7E-94DD-00C05DBE4CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E5CD72-1FA8-4E7E-94DD-00C05DBE4CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E5CD72-1FA8-4E7E-94DD-00C05DBE4CB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{095C3F21-4B2D-4D02-ABAA-0AAF111BA43E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{095C3F21-4B2D-4D02-ABAA-0AAF111BA43E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{095C3F21-4B2D-4D02-ABAA-0AAF111BA43E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{095C3F21-4B2D-4D02-ABAA-0AAF111BA43E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43A90DE5-B7C4-4ED9-9391-2B3A8BFE733B}
+	EndGlobalSection
+EndGlobal
